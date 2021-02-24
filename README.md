@@ -1,2 +1,1 @@
-# bragsheet
- My bragsheet except cooler
+Brag sheet

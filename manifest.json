@@ -1,0 +1,9 @@
+{
+    "short_name": "Benjamin Swerdlow",
+    "name": "The best student",
+    "start_url": "/bragsheet/",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "scope": "/bragsheet/",
+    "theme_color": "#3367D6"
+  }
